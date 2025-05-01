@@ -1,0 +1,11 @@
+Organizations leveraging legacy data warehouses are rapidly migrating to Amazon Redshift to modernize their data platform and take advantage of the benefits of the cloud, including rapid scalability and quick ingestion of huge volumes of data. By migrating to AWS, organizations like yours benefit from a broad and rich ecosystem and set of resources to ensure your success, including:
+Experienced AWS APN Consulting Partners, including 47Lining and NorthBay, who can help with your migration.
+Data integration tools, such as Matillion, that can quickly, easily, and affordably load data into Amazon Redshift and transform it into an analytics-ready state.
+Data visualization partners, like Tableau, which can be used to create fast, easy, interactive, and shareable visual analytics.
+Click here to learn more about data warehouse modernization on AWS.
+
+Also, join us on August 22nd, 2017 at 10:00AM PT | 1:00PM ET for a live webinar where you’ll learn:
+
+The benefits of data warehouse modernization on AWS.
+How to leverage tools like Matillion and Tableau to get the most from your modern data warehouse.
+How AWS APN Consulting Partners, 47Lining and NorthBay, can help you modernize your data warehouse on AWS.
